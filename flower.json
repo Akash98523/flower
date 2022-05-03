@@ -1,0 +1,30 @@
+[
+    {
+        "fid": 1,
+        "fname": "Lily",
+        "color": "white",
+        "available": 3,
+        "each_price": 100
+    },
+    {
+        "fid": 2,
+        "fname": "Rose",
+        "color": "Red",
+        "available": 40,
+        "each_price": 40
+    },
+    {
+        "fid": 4,
+        "fname": "lotus",
+        "color": "Pink",
+        "available": 30,
+        "each_price": 100
+    },
+    {
+        "fid": 4,
+        "fname": "lotus",
+        "color": "Pink",
+        "available": 30,
+        "each_price": 100
+    }
+]
